@@ -117,6 +117,16 @@ class Anokithen:
 
 ---
 
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anokithen/Anokithen/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
 ## 🎯 Current Mission
 
 ```text
