@@ -4,17 +4,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Hey+%F0%9F%91%8B+I'm+Anokithen;Full+Stack+Developer+%F0%9F%92%BB;Building+Modern+Web+Applications+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Turning+Ideas+Into+Real+Products+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Anokithen;Full+Stack+Developer+%F0%9F%92%BB;Building+Modern+Web+Applications+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Turning+Ideas+Into+Real+Products+%E2%9A%A1" />
 
-<br><br>
+<br>
 
-<a href="https://github.com/Anokithen">
 <img src="https://komarev.com/ghpvc/?username=Anokithen&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge" />
-</a>
-
-<a href="https://github.com/Anokithen?tab=followers">
-<img src="https://img.shields.io/github/followers/Anokithen?label=FOLLOWERS&style=for-the-badge&color=0b1f2a&labelColor=050505" />
-</a>
 
 </div>
 
@@ -26,7 +20,6 @@
 class Anokithen:
 
     name = "Uthayanan Anokithen"
-    username = "Anokithen"
     role = "Full Stack Developer"
 
     interests = [
@@ -35,19 +28,6 @@ class Anokithen:
         "Software Engineering",
         "UI/UX",
         "Open Source"
-    ]
-
-    tech_stack = [
-        "Python",
-        "Flask",
-        "React",
-        "Next.js",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "MySQL",
-        "Git",
-        "GitHub"
     ]
 
     currently_learning = [
@@ -67,19 +47,15 @@ class Anokithen:
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 
-<br><br>
-
-### ⚛️ Frameworks & Libraries
+### Frameworks
 
 <img src="https://skillicons.dev/icons?i=flask,react,nextjs" />
 
-<br><br>
-
-### 🗄️ Database & Development Tools
+### Database & Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 
@@ -89,8 +65,6 @@ class Anokithen:
 
 ## 🚀 What I'm Building
 
-<div align="center">
-
 ```text
 ╭──────────────────────────────────────────────────────────╮
 │                                                          │
@@ -98,46 +72,24 @@ class Anokithen:
 │                                                          │
 │   🤖 AI-powered experiences                              │
 │                                                          │
-│   📚 Educational Technology                              │
+│   📚 Educational technology                              │
 │                                                          │
-│   ⚡ Fast & Scalable Backend Systems                     │
+│   ⚡ Fast & scalable backend systems                     │
 │                                                          │
-│   🎨 Clean & Intuitive User Interfaces                   │
+│   🎨 Clean and intuitive user interfaces                 │
 │                                                          │
 ╰──────────────────────────────────────────────────────────╯
 ```
 
-</div>
-
 ---
 
-# 🌟 Featured Projects
-
-## 📚 TeachAlike
-
-> An educational technology project focused on creating engaging and personalized learning experiences.
+## 🌟 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Anokithen/Teachalike-client">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anokithen&repo=Teachalike-client&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Anokithen/TeachAlike">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anokithen&repo=TeachAlike&theme=tokyonight&hide_border=true" />
 </a>
-
-<a href="https://github.com/Anokithen/Teachalike-api-backend-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anokithen&repo=Teachalike-api-backend-&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-|                            🖥️ Frontend                           |                               ⚙️ Backend                               |
-| :---------------------------------------------------------------: | :--------------------------------------------------------------------: |
-|                    React • Next.js • JavaScript                   |                             Python • Flask                             |
-|                        Modern Web Interface                       |                                REST API                                |
-| [View Frontend →](https://github.com/Anokithen/Teachalike-client) | [View Backend →](https://github.com/Anokithen/Teachalike-api-backend-) |
 
 </div>
 
@@ -165,41 +117,25 @@ class Anokithen:
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anokithen/Anokithen/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
 ## 🎯 Current Mission
 
-<div align="center">
-
 ```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│                 CURRENT MISSION                         │
-│                                                          │
-│  ⚛️  Mastering React & Next.js                           │
-│                                                          │
-│  🐍  Building with Python & Flask                       │
-│                                                          │
-│  🤖  Exploring Artificial Intelligence                   │
-│                                                          │
-│  🗄️  Improving Database Architecture                    │
-│                                                          │
-│  🚀  Building Real-World Applications                    │
-│                                                          │
-│  🌍  Exploring Open Source                               │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
+[████████████████████░░░░] 80%
+
+Learning        ████████████████████░░
+Building        █████████████████████░
+Experimenting   █████████████████░░░░
+Open Source     ████████████░░░░░░░░░
 ```
 
-</div>
+### Currently focused on
+
+* ⚛️ React & Next.js
+* 🐍 Python & Flask
+* 🤖 Artificial Intelligence
+* 🗄️ Database Architecture
+* 🚀 Full Stack Development
+* 🌍 Building real-world projects
 
 ---
 
@@ -208,42 +144,22 @@ class Anokithen:
 <div align="center">
 
 ```text
-             ┌───────────────┐
-             │     THINK     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     BUILD     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │      TEST     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     LEARN     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │    IMPROVE    │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │    REPEAT ♻️  │
-             └───────────────┘
+        ┌─────────────────────────────┐
+        │       THINK                 │
+        │         ↓                   │
+        │       BUILD                 │
+        │         ↓                   │
+        │       TEST                  │
+        │         ↓                   │
+        │       LEARN                 │
+        │         ↓                   │
+        │       IMPROVE               │
+        │         ↓                   │
+        │       REPEAT ♻️             │
+        └─────────────────────────────┘
 ```
 
-### `BUILD. LEARN. CREATE. REPEAT.`
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anokithen&bg_color=050505&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+### `"BUILD. LEARN. CREATE. REPEAT."`
 
 </div>
 
@@ -254,22 +170,14 @@ class Anokithen:
 <div align="center">
 
 <a href="https://github.com/Anokithen">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
-
-### ⚡ `CODE • CREATE • INNOVATE`
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0b1f2a,100:050505&height=120&section=footer" width="100%"/>
 
