@@ -117,17 +117,7 @@ class Anokithen:
 
 > An educational technology project focused on creating engaging and personalized learning experiences.
 
-<div align="center">
 
-<a href="https://github.com/Anokithen/Teachalike-client">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anokithen&repo=Teachalike-client&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Anokithen/Teachalike-api-backend-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Anokithen&repo=Teachalike-api-backend-&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 <br>
 
