@@ -100,7 +100,7 @@ class Anokithen:
 │                                                          │
 │   📚 Educational Technology                              │
 │                                                          │
-│   ⚡ Fast & Scalable Backend Systems                     │
+│   ⚡ Fast & Scalable Backend Systems                      │
 │                                                          │
 │   🎨 Clean & Intuitive User Interfaces                   │
 │                                                          │
