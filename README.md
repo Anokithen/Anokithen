@@ -229,16 +229,6 @@ class Anokithen:
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anokithen&bg_color=050505&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
